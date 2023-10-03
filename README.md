@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 </p>
 
 ---
-
+## Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=novicecivon&show_icons=true&theme=gotham&hide_border=true">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=novicecivon&theme=gotham&hide_border=true">
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
           
 ---
 
-### Technologies          
+## Technologies          
 <p align="center" style="padding: 20px;">
 <a href="https://www.python.org/" target="_blank"><img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a>
 <a href="https://www.docker.com/" target="_blank"><img align="left" alt="Docker" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /></a>

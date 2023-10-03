@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ---
 
 ### Languages and Tools          
-
+<p align="center" style="padding: 20px;">
 <a href="https://www.python.org/" target="_blank"><img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a>
 <a href="https://www.docker.com/" target="_blank"><img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /></a>
 <a href="https://opencv.org/" target="_blank"><img align="left" alt="OpenCV" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" /></a>
@@ -35,11 +35,10 @@ Here are some ideas to get you started:
 <a href="https://www.linux.org/" target="_blank"><img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></a>
 <a href="https://github.com/" target="_blank"><img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></a>
 <a href="https://about.gitlab.com/" target="_blank"><img align="left" alt="GitLab" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" /></a>
-<br />
-
+</p>
 #
 
 <p align="center" style="padding: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=novicecivon&show_icons=true&theme=gotham" alt="novicecivon" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=novicecivon&theme=dark&hide_border=true">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=novicecivon&theme=dark">
 </p>

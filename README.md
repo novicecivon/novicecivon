@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 </p>
 
 <a href="https://www.linkedin.com/in/novicecivon/"> 
-    <img align="center" alt="LinkedIn" width="40px" src="https://icongr.am/devicon/linkedin-original.svg?size=148&color=currentColor" />
+    <img align="center" alt="LinkedIn" src="https://icongr.am/devicon/linkedin-original.svg?size=148&color=currentColor" />
 </a>
 
 

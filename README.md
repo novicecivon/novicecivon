@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=novicecivon" alt="novicecivon" /></a> </p>
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=novicecivon&show_icons=true&theme=gotham" alt="novicecivon" />
 ---
 
 ### 🧰 Languages and Tools          

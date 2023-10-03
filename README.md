@@ -25,36 +25,36 @@ Here are some ideas to get you started:
 </a>
 -->
 
----
-## Stats
-
-<p style="text-align: center;">
-    <img src="https://komarev.com/ghpvc/?username=novicecivon&label=Profile%20views&color=0e75b6&style=flat">
-</p>
-
 [![Github](https://img.shields.io/github/followers/novicecivon?label=Follow%20Me&style=social)](https://github.com/novicecivon)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-novicecivon-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/novicecivon/)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-novicecivon-green?logo=huggingface)](https://huggingface.co/novicecivon)
 [![Kaggle Profile](https://img.shields.io/badge/Kaggle-novicecivon-blue?logo=kaggle)](https://www.kaggle.com/novicecivon)
 
+---
+📊 **Stats:** <br>
+
+<p align="center"">
+    <img src="https://komarev.com/ghpvc/?username=novicecivon&label=Profile%20views&color=0e75b6&style=flat">
+</p>
 
 <p style="display: flex; justify-contect: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=novicecivon&show_icons=true&theme=gotham&hide_border=true">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=novicecivon&theme=gotham&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=novicecivon&show_icons=true&theme=gotham&hide_border=true">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=novicecivon&theme=gotham&hide_border=true">
 </p>
           
 ---
 
-💻 🛠️**Languages and Tools:** <br>        
+💻 🛠️ ##**Languages and Tools:** <br>    
+
 <p align="center" style="padding: 20px;">
-<a href="https://www.python.org/" target="_blank"><img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a>
-<a href="https://www.docker.com/" target="_blank"><img align="left" alt="Docker" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /></a>
-<a href="https://opencv.org/" target="_blank"><img align="left" alt="OpenCV" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" /></a>
-<a href="https://www.tensorflow.org/" target="_blank"><img align="left" alt="Tensorflow" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" /></a>
-<a href="https://jupyter.org/" target="_blank"><img align="left" alt="Jupyter" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" /></a>
-<a href="https://pytorch.org/" target="_blank"><img align="left" alt="Pytorch" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" /></a>
-<a href="https://www.linux.org/" target="_blank"><img align="left" alt="Linux" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></a>
-<a href="https://github.com/" target="_blank"><img align="left" alt="GitHub" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></a>
-<a href="https://about.gitlab.com/" target="_blank"><img align="left" alt="GitLab" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" /></a>
+    <a href="https://www.python.org/" target="_blank"><img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a>
+    <a href="https://www.docker.com/" target="_blank"><img align="left" alt="Docker" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /></a>
+    <a href="https://opencv.org/" target="_blank"><img align="left" alt="OpenCV" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" /></a>
+    <a href="https://www.tensorflow.org/" target="_blank"><img align="left" alt="Tensorflow" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" /></a>
+    <a href="https://jupyter.org/" target="_blank"><img align="left" alt="Jupyter" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" /></a>
+    <a href="https://pytorch.org/" target="_blank"><img align="left" alt="Pytorch" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" /></a>
+    <a href="https://www.linux.org/" target="_blank"><img align="left" alt="Linux" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></a>
+    <a href="https://github.com/" target="_blank"><img align="left" alt="GitHub" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></a>
+    <a href="https://about.gitlab.com/" target="_blank"><img align="left" alt="GitLab" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" /></a>
 </p>
 </br>

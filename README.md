@@ -23,9 +23,11 @@ Here are some ideas to get you started:
   <img src="https://komarev.com/ghpvc/?username=novicecivon&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="novicecivon" />
 </p>
 
-<a href="https://www.linkedin.com/in/novicecivon/"> 
-    <img align="center" alt="LinkedIn" src="https://icongr.am/devicon/linkedin-original.svg?size=148&color=currentColor" />
-</a>
+<div style="display: grid; place-items: center;">
+  <a href="https://www.linkedin.com/in/novicecivon/"> 
+    <img alt="LinkedIn" src="https://icongr.am/devicon/linkedin-original.svg?size=148&color=currentColor" />
+  </a>
+</div>
 
 
 

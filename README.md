@@ -37,5 +37,7 @@ Here are some ideas to get you started:
 
 #
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=novicecivon&show_icons=true&theme=gotham" alt="novicecivon" />
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=novicecivon&theme=dark&hide_border=true">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=novicecivon&show_icons=true&theme=gotham" alt="novicecivon" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=novicecivon&theme=dark&hide_border=true">
+</p>

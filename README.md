@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <img src="https://komarev.com/ghpvc/?username=novicecivon&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="novicecivon" />
 </p>
 
-<a href="https://github.com/ryo-ma/github-profile-trophy" align="center"> <img src="https://github-profile-trophy.vercel.app/?username=novicecivon" alt="novicecivon" /> </a> 
+<a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=novicecivon&column=-1" alt="novicecivon" /> </a> 
 
 ---
 

@@ -28,18 +28,23 @@ Here are some ideas to get you started:
 ---
 ## Stats
 
-<p align="center"">
-  <img src="https://komarev.com/ghpvc/?username=novicecivon&label=Profile%20views&color=0e75b6&style=for-the-badge">
-</p>
+<img src="https://komarev.com/ghpvc/?username=novicecivon&label=Profile%20views&color=0e75b6&style=flat">
 
-<p align="center"">
+[![Github](https://img.shields.io/github/followers/novicecivon?label=Follow%20Me&style=social)](https://github.com/novicecivon)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-novicecivon-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/novicecivon/)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-novicecivon-green?logo=huggingface)](https://huggingface.co/novicecivon)
+[![Kaggle Profile](https://img.shields.io/badge/Kaggle-novicecivon-blue?logo=kaggle)](https://www.kaggle.com/novicecivon)
+
+
+
+<p style="display: flex; justify-contect: space-between;">
   <img src="https://github-readme-stats.vercel.app/api?username=novicecivon&show_icons=true&theme=gotham&hide_border=true">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=novicecivon&theme=gotham&hide_border=true">
 </p>
           
 ---
 
-## Technologies          
+💻 **Languages and Tools:** 🛠️<br>        
 <p align="center" style="padding: 20px;">
 <a href="https://www.python.org/" target="_blank"><img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a>
 <a href="https://www.docker.com/" target="_blank"><img align="left" alt="Docker" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /></a>

@@ -24,12 +24,14 @@ Here are some ideas to get you started:
     <img alt="LinkedIn" src="https://icongr.am/devicon/linkedin-original.svg?size=148&color=currentColor" />
 </a>
 -->
+
+---
+## Stats
+
 <p align="center" style="padding: 20px;">
   <img src="https://komarev.com/ghpvc/?username=novicecivon&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="novicecivon" />
 </p>
 
----
-## Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=novicecivon&show_icons=true&theme=gotham&hide_border=true">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=novicecivon&theme=gotham&hide_border=true">

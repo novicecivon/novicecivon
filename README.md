@@ -18,18 +18,15 @@ Here are some ideas to get you started:
 <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=novicecivon&column=-1" alt="novicecivon" />
 </a>
+
+# Linkedin:
+<a href="https://www.linkedin.com/in/novicecivon/"> 
+    <img alt="LinkedIn" src="https://icongr.am/devicon/linkedin-original.svg?size=148&color=currentColor" />
+</a>
 -->
 <p align="center" style="padding: 20px;">
   <img src="https://komarev.com/ghpvc/?username=novicecivon&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="novicecivon" />
 </p>
-
-<div style="display: grid; place-items: center;">
-  <a href="https://www.linkedin.com/in/novicecivon/"> 
-    <img alt="LinkedIn" src="https://icongr.am/devicon/linkedin-original.svg?size=148&color=currentColor" />
-  </a>
-</div>
-
-
 
 ---
 

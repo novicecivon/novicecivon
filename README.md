@@ -15,16 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
+<p align="center" style="padding: 20px;">
   <img src="https://komarev.com/ghpvc/?username=novicecivon&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="novicecivon" />
 </p>
 
-<div style="text-align:center;">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=novicecivon&column=-1" alt="novicecivon" />
-    </a>
-</div>
-
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=novicecivon&column=-1" alt="novicecivon" />
+</a>
 ---
 
 ### Languages and Tools          
@@ -42,7 +39,7 @@ Here are some ideas to get you started:
 
 #
 
-<p align="center">
+<p align="center" style="padding: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=novicecivon&show_icons=true&theme=gotham" alt="novicecivon" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=novicecivon&theme=dark&hide_border=true">
 </p>

@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 -->
 <p align="center" style="padding: 20px;">
   <img src="https://komarev.com/ghpvc/?username=novicecivon&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="novicecivon" />
-  <a href="https://www.linkedin.com/in/novicecivon/" target="_blank"><img align="left" alt="LinkedIn" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" /></a>
+  <a href="https://www.linkedin.com/in/novicecivon/"> <img align="center" alt="LinkedIn" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" /></a>
 </p>
 
 ---
@@ -30,9 +30,6 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=novicecivon&show_icons=true&theme=gotham&hide_border=true">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=novicecivon&theme=gotham&hide_border=true">
 </p>
-
-
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" />
           
 ---
 

@@ -30,6 +30,9 @@ Here are some ideas to get you started:
 
 <p align="center"">
   <img src="https://komarev.com/ghpvc/?username=novicecivon&label=Profile%20views&color=0e75b6&style=for-the-badge">
+</p>
+
+<p align="center"">
   <img src="https://github-readme-stats.vercel.app/api?username=novicecivon&show_icons=true&theme=gotham&hide_border=true">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=novicecivon&theme=gotham&hide_border=true">
 </p>

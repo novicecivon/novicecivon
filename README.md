@@ -37,14 +37,14 @@ Here are some ideas to get you started:
     <img src="https://komarev.com/ghpvc/?username=novicecivon&label=Profile%20views&color=0e75b6&style=flat">
 </p>
 
-<p style="display: flex; justify-contect: space-between;">
+<p align="center"">
     <img src="https://github-readme-stats.vercel.app/api?username=novicecivon&show_icons=true&theme=gotham&hide_border=true">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=novicecivon&theme=gotham&hide_border=true">
 </p>
           
 ---
 
-💻 🛠️ ##**Languages and Tools:** <br>    
+💻 🛠️ **Languages and Tools:** <br>    
 
 <p align="center" style="padding: 20px;">
     <a href="https://www.python.org/" target="_blank"><img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a>

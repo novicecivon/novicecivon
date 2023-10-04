@@ -1,4 +1,16 @@
-### Hi there 👋
+# Hi 👋
+
+I am a Artificial Intelligence Engineer based in the Philippines!
+
+I specialize in developing and deploying AI solutions:
+* Computer Vision (CV)
+* Machine Learning (ML)
+* Natural Language Processing (NLP)
+* Large Language Models (LLMs)
+
+🤝 I'm open to collaborating on projects that intersect Cybersecurity and Artificial Intelligence, as well as in Healthcare.
+
+Let's work together to create innovative solutions that can make a positive impact on the world!
 
 <!--
 **novicecivon/novicecivon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -32,17 +44,6 @@ Here are some ideas to get you started:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-novicecivon-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/novicecivon/)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-novicecivon-green?logo=huggingface)](https://huggingface.co/novicecivon)
 [![Kaggle Profile](https://img.shields.io/badge/Kaggle-novicecivon-blue?logo=kaggle)](https://www.kaggle.com/novicecivon)
-
----
-📊 **Stats:** <br>
-
-<p align="center"">
-    <img src="https://komarev.com/ghpvc/?username=novicecivon&label=Profile%20views&color=0e75b6&style=flat">
-</p>
-
-<p align="center"">
-    <img src="https://github-readme-stats.vercel.app/api?username=novicecivon&show_icons=true&theme=gotham&hide_border=true">
-</p>
 
 ---
 
@@ -87,7 +88,7 @@ Here are some ideas to get you started:
 [![GAN badge](https://img.shields.io/badge/GAN-Generative%20Adversarial%20Network-informational.svg?style=for-the-badge)](https://en.wikipedia.org/wiki/Generative_adversarial_network)
 
 
-💻 🛠️ **Languages and Tools:** <br>    
+## Languages and Tools  
 
 <p align="center" style="padding: 20px;">
     <a href="https://www.python.org/" target="_blank"><img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a>
@@ -101,3 +102,14 @@ Here are some ideas to get you started:
     <a href="https://about.gitlab.com/" target="_blank"><img align="left" alt="GitLab" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" /></a>
 </p>
 </br>
+
+## My GitHub Stats
+
+<p align="center"">
+    <img src="https://komarev.com/ghpvc/?username=novicecivon&label=Profile%20views&color=0e75b6&style=flat">
+</p>
+
+<p align="center"">
+    <img src="https://github-readme-stats.vercel.app/api?username=novicecivon&show_icons=true&theme=gotham&hide_border=true">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=novicecivon&theme=gotham&hide_border=true">
+</p>

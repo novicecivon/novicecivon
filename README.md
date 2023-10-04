@@ -23,6 +23,9 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/novicecivon/"> 
     <img alt="LinkedIn" src="https://icongr.am/devicon/linkedin-original.svg?size=148&color=currentColor" />
 </a>
+
+# Streak
+<img src="https://github-readme-streak-stats.herokuapp.com?user=novicecivon&theme=gotham&hide_border=true">
 -->
 
 [![Github](https://img.shields.io/github/followers/novicecivon?label=Follow%20Me&style=social)](https://github.com/novicecivon)
@@ -39,9 +42,8 @@ Here are some ideas to get you started:
 
 <p align="center"">
     <img src="https://github-readme-stats.vercel.app/api?username=novicecivon&show_icons=true&theme=gotham&hide_border=true">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=novicecivon&theme=gotham&hide_border=true">
 </p>
-          
+
 ---
 
 💻 🛠️ **Languages and Tools:** <br>    

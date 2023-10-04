@@ -46,6 +46,47 @@ Here are some ideas to get you started:
 
 ---
 
+## Skills
+
+### Computer vision
+
+[![OpenCV](https://img.shields.io/badge/OpenCV-%23000000.svg?style=for-the-badge&logo=opencv)](https://opencv.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch)](https://pytorch.org/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow)](https://www.tensorflow.org/)
+
+### Artificial Intelligence
+
+[![scikit-learn](https://img.shields.io/badge/scikit-learn-%23008000.svg?style=for-the-badge&logo=scikit-learn)](https://scikit-learn.org/stable/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch)](https://pytorch.org/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow)](https://www.tensorflow.org/)
+[![scikit-optimize](https://img.shields.io/badge/scikit-optimize-%23F0E442.svg?style=for-the-badge&logo=scikit-optimize)](https://scikit-optimize.org/)
+
+### Machine learning
+
+[![scikit-learn](https://img.shields.io/badge/scikit-learn-%23008000.svg?style=for-the-badge&logo=scikit-learn)](https://scikit-learn.org/stable/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch)](https://pytorch.org/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow)](https://www.tensorflow.org/)
+[![XGBoost](https://img.shields.io/badge/XGBoost-%230086B3.svg?style=for-the-badge&logo=xgboost)](https://xgboost.org/)
+[![SVM](https://img.shields.io/badge/SVM-Support%20Vector%20Machines-informational.svg?style=for-the-badge)](https://en.wikipedia.org/wiki/Support_vector_machine)
+[![Linear%20Regression](https://img.shields.io/badge/Linear%20Regression-informational.svg?style=for-the-badge)](https://en.wikipedia.org/wiki/Linear_regression)
+[![Logistic%20Regression](https://img.shields.io/badge/Logistic%20Regression-informational.svg?style=for-the-badge)](https://en.wikipedia.org/wiki/Logistic_regression)
+[![Random%20Forest](https://img.shields.io/badge/Random%20Forest-informational.svg?style=for-the-badge)](https://en.wikipedia.org/wiki/Random_forest)
+[![XGBoost](https://img.shields.io/badge/XGBoost-%230086B3.svg?style=for-the-badge&logo=xgboost)](https://xgboost.org/)
+
+### Deep learning
+
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow)](https://www.tensorflow.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch)](https://pytorch.org/)
+[![PyTorch Lightning](https://img.shields.io/badge/PyTorch%20Lightning-%237B2736.svg?style=for-the-badge&logo=pytorch-lightning)](https://www.pytorchlightning.ai/)
+[![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=keras)](https://keras.io/)
+
+
+[![CNN badge](https://img.shields.io/badge/CNN-Convolutional%20Neural%20Network-informational.svg?style=for-the-badge)](https://en.wikipedia.org/wiki/Convolutional_neural_network)
+[![DNN badge](https://img.shields.io/badge/DNN-Deep%20Neural%20Network-informational.svg?style=for-the-badge)](https://en.wikipedia.org/wiki/Deep_neural_network)
+[![RNN badge](https://img.shields.io/badge/RNN-Recurrent%20Neural%20Network-informational.svg?style=for-the-badge)](https://en.wikipedia.org/wiki/Recurrent_neural_network)
+[![GAN badge](https://img.shields.io/badge/GAN-Generative%20Adversarial%20Network-informational.svg?style=for-the-badge)](https://en.wikipedia.org/wiki/Generative_adversarial_network)
+
+
 💻 🛠️ **Languages and Tools:** <br>    
 
 <p align="center" style="padding: 20px;">
